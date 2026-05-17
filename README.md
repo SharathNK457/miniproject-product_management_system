@@ -1,7 +1,6 @@
-**interface:**
 PRODUCT MANAGEMENT SYSTEM 
 
-
+**interface:**
 https://github.com/SharathNK457/miniproject-product_management_system/blob/master/product.png
 
 delete : https://github.com/SharathNK457/miniproject-product_management_system/blob/master/delete%20product.png
